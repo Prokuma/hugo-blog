@@ -1,4 +1,4 @@
-baseURL: 'http://www.prokuma.dev'
+baseURL: 'https://www.prokuma.dev'
 canonifyurls: true
 languageCode: 'ja-jp'
 publishDir: 'docs'

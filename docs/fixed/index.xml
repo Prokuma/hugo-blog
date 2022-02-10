@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fixeds on Prokuma&#39;s Blog</title>
-    <link>http://www.prokuma.dev/fixed/</link>
+    <link>https://www.prokuma.dev/fixed/</link>
     <description>Recent content in Fixeds on Prokuma&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 10 Feb 2022 22:51:57 +0900</lastBuildDate><atom:link href="http://www.prokuma.dev/fixed/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Feb 2022 22:51:57 +0900</lastBuildDate><atom:link href="https://www.prokuma.dev/fixed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Works</title>
-      <link>http://www.prokuma.dev/fixed/works/</link>
+      <link>https://www.prokuma.dev/fixed/works/</link>
       <pubDate>Thu, 10 Feb 2022 22:51:57 +0900</pubDate>
       
-      <guid>http://www.prokuma.dev/fixed/works/</guid>
+      <guid>https://www.prokuma.dev/fixed/works/</guid>
       <description>To Be Updated&amp;hellip;
 プログラミング関係 Androidアプリケーション  MemoCounter  iOSアプリケーション  ContourCamera  Verilog  TD4のVerilog実装 AYUMU  Arduino・その他組込関係  ArduinoDrone  もっと埋めたい…
 学術関係 ここを埋めたい…</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Profile</title>
-      <link>http://www.prokuma.dev/fixed/profile/</link>
+      <link>https://www.prokuma.dev/fixed/profile/</link>
       <pubDate>Thu, 10 Feb 2022 22:22:47 +0900</pubDate>
       
-      <guid>http://www.prokuma.dev/fixed/profile/</guid>
+      <guid>https://www.prokuma.dev/fixed/profile/</guid>
       <description>挨拶 みなさん、こんにちは。Prokumaです。 このウェブサイトは、ポートフォリオとお知らせのために作ったものです。 ここには、簡単な自己紹介と各種URLを貼っておきます。
 プロフィル 趣味  プログラミング 旅行 写真 アニメ鑑賞  ちなみにラブライブが好きだったりします。推しは近江彼方あたり。
 興味分野  コンピュータアーキテクチャ オペレーティングシステム コンパイラ 機械学習  ちなみに全部わかりません！w
