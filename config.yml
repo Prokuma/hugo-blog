@@ -1,0 +1,51 @@
+baseURL: 'http://www.prokuma.dev'
+canonifyurls: true
+languageCode: 'ja-jp'
+publishDir: 'docs'
+paginate: 5
+title: "Prokuma's Blog"
+theme: 'PaperMod'
+
+params:
+  keywords: [Blog, Portfolio]
+  author: Prokuma
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  disableSpecial1stProst: false
+  disableScrollToTop: false
+
+  ShowReadingTime: true
+  ShowShareButton: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  profileMode:
+    enabled: true
+    title: "Prokuma"
+    subtitle: "It is the Prokuma's website."
+
+  label:
+    text: "Prokuma's Blog"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/ProkumaH"
+    - name: github
+      url: "https://github.com/Prokuma"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: posts
+      weight: 5
+    - identifier: profile
+      name: Profile
+      url: fixed/profile
+      weight: 10
+    - identifier: works
+      name: Works
+      url: fixed/works
+      weight: 15
