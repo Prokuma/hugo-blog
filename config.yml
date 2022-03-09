@@ -1,7 +1,6 @@
 baseURL: 'https://www.prokuma.dev'
 canonifyurls: true
 languageCode: 'ja-jp'
-publishDir: 'docs'
 paginate: 5
 title: "Prokuma's Blog"
 theme: 'PaperMod'
