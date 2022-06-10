@@ -15,6 +15,7 @@ To Be Updated...
 ### Verilog
 - [TD4のVerilog実装](https://github.com/Prokuma/TD4)
 - [AYUMU](https://github.com/Prokuma/Ayumu)
+- [KASUMI(製作中)](https://github.com/Prokuma/Kasumi)
 
 ### Arduino・その他組込関係
 - [ArduinoDrone](https://github.com/Prokuma/arduino_drone)
